@@ -1,4 +1,4 @@
-# SENTIMENT-ANALYSIS-ON-AMAZON-PRODUCT-REVIEWS-USING-ML-AND-DL
+# SENTIMENT_ANALYSIS_ON_AMAZON_PRODUCT_REVIEWS_USING_ML_AND_DL
 In this project, I've trained some ML and DL models to classify amazon product reviews.
 
 
